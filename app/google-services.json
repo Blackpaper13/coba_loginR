@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88613287466",
+    "project_id": "coba-loginr-22f84",
+    "storage_bucket": "coba-loginr-22f84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88613287466:android:3606d6350e3dd453ee3553",
+        "android_client_info": {
+          "package_name": "com.example.coba_loginr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88613287466-ubtln8lo4i72i3uag00gqntlr7kth6vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxkhGXz3-JMAwwv60vIflMIMID0HBYJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88613287466-ubtln8lo4i72i3uag00gqntlr7kth6vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
